@@ -31,8 +31,8 @@ Studi di linguistica cognitiva ci dicono che parlanti appartenenti a diverse cul
 ## Riferimenti
 - Berlin, Brent, Kay, Paul. 1969. *Basic Color Terms: Their Universality and Evolution*. Berkeley: University of California Press. 
 
-- <a href="https://www.iltascabile.com/scienze/dare-un-nome-ai-colori/" rel="" target="_blank">Dare un nome ai colori.</a>
+- <a href="https://www.iltascabile.com/scienze/dare-un-nome-ai-colori/" rel="" target="_blank">Dare un nome ai colori</a>
 
-- <a href="https://www.ilpost.it/2013/11/19/breve-storia-del-colore-rosa/" rel="" target="_blank">Breve storia del colore rosa.</a>
+- <a href="https://www.ilpost.it/2013/11/19/breve-storia-del-colore-rosa/" rel="" target="_blank">Breve storia del colore rosa</a>
 
 
